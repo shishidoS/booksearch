@@ -1,0 +1,1 @@
+Pythonの標準GUIライブラリTkinterの試作に使用
